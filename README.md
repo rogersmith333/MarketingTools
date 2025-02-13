@@ -7,6 +7,7 @@ Free web tools for digital marketing and affiliates
 | --- | --- | --- |
 | SEO Free Tools  | https://www.seofreetools.eu/  | Improve Your Website's Visibility with Over 50 SEO Tools to Track Issues and Boost Search Engine Rankings. | 
 | PopLab Tools | https://www.poplab-tools.eu/ | The Best Free Online Web Tools You Will Ever Need|
+| DAXRM | https://www.daxrm.com/ | DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform. | 
 
 
 ## Content Generation
